@@ -20,6 +20,8 @@ Scroll to the bottom of this page to request a new integration or submit your ow
 <button class="btn filterBtn" value="deployment">Deployment</button>
 <button class="btn filterBtn" value="observability">Observability</button>
 <button class="btn filterBtn" value="webhook">Webhook</button>
+<button class="btn filterBtn" value="finops">FinOps</button>
+<button class="btn filterBtn" value="security">Security </button>
 
 <script type="text/javascript">
     const input = document.getElementById("services-search");
